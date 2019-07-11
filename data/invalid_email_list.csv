@@ -1,0 +1,51 @@
+Column1,name,email,Unnamed: 2,email_valid
+0,X,bdjohn@,,-1
+1,X,b,,-1
+2,X,#@%^%#$@#$@#.com,,-1
+3,X,@example.com,,-1
+4,X,Joe Smith <email@example.com>,,-1
+5,X,email.example.com,,-1
+6,X,email@example@example.com,,-1
+7,X,.email@example.com,,-1
+8,X,email.@example.com,,-1
+9,X,email..email@example.com,,-1
+10,X,?????@example.com,,1
+11,X,email@example.com (Joe Smith),,1
+12,X,email@example,,-1
+13,X,email@-example.com,,-1
+14,X,email@example.web,,1
+15,X,email@111.222.333.44444,,1
+16,X,email@example..com,,-1
+17,X,Abc..123@example.com,,-1
+18,X,plainaddress,,-1
+19,X,#@%^%#$@#$@#.com,,-1
+20,X,@example.com,,-1
+21,X,Joe Smith <email@example.com>,,-1
+22,X,email.example.com,,-1
+23,X,email@example@example.com,,-1
+24,X,.email@example.com,,-1
+25,X,email.@example.com,,-1
+26,X,email..email@example.com,,-1
+27,X,?????@example.com,,1
+28,X,email@example.com (Joe Smith),,1
+29,X,email@example,,-1
+30,X,email@-example.com,,-1
+31,X,email@example.web,,1
+32,X,email@111.222.333.44444,,1
+33,X,email@example..com,,-1
+34,X,Abc..123@example.com,,-1
+35,X,abc@bad.,,-1
+36,X,bbc@example@,,-1
+37,X,bbc@example!,,-1
+38,X,bbc@example#,,-1
+39,X,bbc@example$,,-1
+40,X,bbc@example%,,-1
+41,X,bbc@example^,,-1
+42,X,bbc@example&,,-1
+43,X,bbc@example*,,-1
+44,X,bbc@example(,,-1
+45,X,bbc@example),,-1
+46,X,bbc@example;,,-1
+47,X,bbc@example..,,-1
+48,X,bbc@example/,,-1
+49,X,bbc@example.@,,-1

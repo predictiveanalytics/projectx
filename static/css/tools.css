@@ -1,0 +1,28 @@
+.tools h1{
+  font: inherit;
+  font-weight: 800;
+  font-size: 50px;
+  letter-spacing: 1px;
+  color: #000;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.tools h3{
+  font: inherit;
+  font-weight: 800;
+  font-size: 30px;
+  letter-spacing: 1px;
+  color: #000;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.tools p{
+  font: inherit;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #000;
+  text-align: center;
+}
